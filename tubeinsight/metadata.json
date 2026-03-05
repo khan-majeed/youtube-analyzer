@@ -1,0 +1,5 @@
+{
+  "name": "TubeInsight",
+  "description": "Deep AI-powered analysis of YouTube videos. Get summaries, key takeaways, sentiment analysis, and full transcripts without watching the video.",
+  "requestFramePermissions": []
+}
